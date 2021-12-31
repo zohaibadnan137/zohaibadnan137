@@ -1,4 +1,4 @@
-<h1 align="center"><👋Hello, World/></h1>
+<h1 align="center"><👋Hello, World!/></h1>
 <h3 align="center">I'm Zohaib, a computer science student with a fierce passion to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibadnan137&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibadnan137" /> </p>
@@ -7,7 +7,7 @@
 
 - 📝 I occasionally write articles on [https://zohaibadnan137.medium.com/](https://zohaibadnan137.medium.com/)
 
-- 📫 How to reach me **zohaibadnan137@gmail.com**
+- 📫 Reach me at **zohaibadnan137@gmail.com**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
