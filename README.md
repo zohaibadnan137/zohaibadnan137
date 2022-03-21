@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibadnan137&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibadnan137" /> </p>
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **Figma and Tailwind CSS**
 
 - 📝 I occasionally write articles on [https://zohaibadnan137.medium.com/](https://zohaibadnan137.medium.com/)
 
