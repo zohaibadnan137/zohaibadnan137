@@ -1,9 +1,10 @@
 <h1 align="center"><👋Hello, World!/></h1>
 <h3 align="center">I'm Zohaib, a computer science student with a passion to learn and explore new technologies.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibadnan137&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibadnan137" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**    
 - 📫 Reach me at **zohaibadnan137@gmail.com**  
-- 
+
 <br/>  
 
 <details><summary> Skills </summary><div align="center">  
