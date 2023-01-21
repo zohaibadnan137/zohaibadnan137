@@ -2,11 +2,11 @@
 <h3 align="center">I'm Zohaib, a computer science student with a passion to learn and explore new technologies.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibadnan137&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibadnan137" /> </p>
 
-- 🔭 I’m currently working on [ThreatHawk](https://github.com/threathawkproject
-- 🌱 I’m currently learning **JavaScript**    
+- 🔭 I’m currently working on **[ThreatHawk](https://github.com/threathawkproject)**
+- 🌱 I’m currently learning **JavaScript**   
 - 📫 Reach me at **zohaibadnan137@gmail.com**  
 
-<br/>  
+<br>
 
 <details><summary> Skills </summary><div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
