@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibadnan137&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibadnan137" /> </p>
 
 - 🔭 I’m currently working on **[ThreatHawk](https://github.com/threathawkproject)**
-- 🌱 I’m currently learning **JavaScript**   
+- 🌱 I’m currently learning **JavaScript**
+- 📝 I occasionally write articles on **[Medium](https://zohaibadnan137.medium.com/)**   
 - 📫 Reach me at **zohaibadnan137@gmail.com**  
 
 <br>
