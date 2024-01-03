@@ -2,8 +2,8 @@
 <h3 align="center">I'm Zohaib, a full stack developer with a passion to learn and explore new technologies.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibadnan137&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibadnan137" /> </p>
 
-- 🔭 I’m currently working on **BIGToken**
-- 🌱 I’m currently learning **Next.js** and **Tailwind CSS**
+- 🔭 I’m currently working on **BIGtoken**
+- 🌱 I’m currently learning **Next.js** and **Redis**
 - 📝 I occasionally write articles on **[Medium](https://zohaibadnan137.medium.com/)**   
 - 📫 Reach me at **zohaibadnan137@gmail.com**  
 
