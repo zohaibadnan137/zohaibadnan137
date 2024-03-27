@@ -10,3 +10,6 @@
 </p>
 
 <h1 align="center">Activity</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zohaibadnan137/zohaibadnan137/snake/github-contribution-grid-snake.svg">
+</p>
